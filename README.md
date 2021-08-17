@@ -9,11 +9,11 @@
 
 ### [연극소개] 
 <hr/>
-<p align="center"> <img src="img/th_1.JPG" width="500px" height="300px"></img> </p>
+<p align="center"> <img src="img/th_1.JPG" width="600px" height="400px"></img> </p>
 
 - 연극 검색 기능
-- 최신 연극 확인 
-<p align="center"> <img src="img/th_2.JPG" width="500px" height="280px"></img> </p>
+- 최신 연극과 극장 확인 
+<p align="center"> <img src="img/th_2.JPG" width="600px" height="300px"></img> </p>
 
 - 관심있는 연극에 대한 정보를 확인할 수 있는 디테일 페이지
 - 
