@@ -9,7 +9,7 @@
 
 ### [연극소개] 
 <hr/>
-<p align="center"> <img src="img/th_1.JPG" width="600px" height="400px"></img> </p>
+<p align="center"> <img src="img/th_1.JPG"></img> </p>
 
 - 연극 검색 기능
 - 최신 연극과 극장 확인 
