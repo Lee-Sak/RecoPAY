@@ -29,6 +29,28 @@
 <hr/>
 <p align="center"> <img src="img/th_3.JPG"></img> </p>
 
+- AJAX를 사용한 동적 게시판
+- CRUD 사이클 구현
+
+<br/>
+<p align="center"> <img src="img/th_5.JPG"></img> </p>
+
+- 모달 창 구현
+
+<br/>
+<p align="center"> <img src="img/th_6.JPG"></img> </p>
+
+- 더블 모달 창 구현 (연극명 찾기)
+
+<br/>
+<p align="center"> <img src="img/th_7.JPG"></img> </p>
+
+- 확인 누르면 새글 작성 연극명 파트에 자동 입력 기능
+
+
+
+<br/>
+<br/><br/>
 
 
 
