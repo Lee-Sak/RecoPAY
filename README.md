@@ -38,7 +38,7 @@
 - 모달 창 구현
 
 <br/>
-<p align="center"> <img src="img/th_6.JPG"></img> </p>
+<p align="center"> <img src="img/th_6.jpg"></img> </p>
 
 - 더블 모달 창 구현 (연극명 찾기)
 
